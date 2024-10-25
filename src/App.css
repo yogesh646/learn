@@ -1,5 +1,11 @@
 .App {
+  /* text-align: center; */
+  background-color: white;
+}
+.down{
   text-align: center;
+  margin-top: 350px;
+  background-color: white;
 }
 
 .App-logo {
@@ -12,7 +18,20 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
+.cancel{
+  font-weight: bold;
+  width: 100px;
+  color: rgb(255, 0, 0);
+  border-radius: 10px;
+   background-color: rgb(241, 234, 234);;
+ }
+.updating{
+ font-weight: bold;
+ width: 100px;
+ color: blue;
+ border-radius: 10px;
+  background-color: rgb(241, 234, 234);;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
