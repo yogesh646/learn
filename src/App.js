@@ -125,7 +125,7 @@ function App() {
     <div className="App">
       <Container maxWidth="50">
         <Typography variant="h4" component="h1" sx={{ mb: 2, mt: 4 }}>
-          <b>Welcome to New Syndicate bank</b>
+          <b>Welcome to New Syndicate bank with new Form</b>
         </Typography>
         <Box
           component="form"
